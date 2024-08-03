@@ -1,4 +1,4 @@
-## Boas vindas!
+## Boas vindas!🌱 
 ## Meu nome é Sofia Gabriela Marcelino.
 ## Estou estudando na Alura.
 ## Estou me desenvolvendo na linguagem JavaScript.
