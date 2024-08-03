@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Boas vindas!
+## Estou estudando na Alura.
+##
 <!--
 **sofiamarcelino/sofiamarcelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
