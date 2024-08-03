@@ -1,7 +1,7 @@
-## Boas vindas! 😄
+## *Boas vindas!* 😄
 ## - Meu nome é *Sofia Gabriela Marcelino*.
-## - Estou estudando na Alura.
-## - Estou me desenvolvendo na linguagem JavaScript.
+## - Estou estudando na *Alura*.
+## - Estou me desenvolvendo na linguagem *JavaScript*.
 ## - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 ## Para entrar em contato comigo: sofia.marcelino@escola.pr.gov.br .
 <!--
